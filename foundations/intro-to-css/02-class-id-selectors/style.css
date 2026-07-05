@@ -1,1 +1,15 @@
-/* Add CSS Styling */
+.odd {
+    background-color: #ffb5b5;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+.large {
+    font-size: 24px;
+}
+#green {
+    background-color: #c4e8c4;
+    font-weight: bold;
+}
+#heading {
+    color: #2222e7;
+    font-size: 36px;
+}
